@@ -15,3 +15,6 @@ Aqui eu vou listar os diretórios de algumas famílias e também tentarei deixar
 - [ ] Circular Std
 - [ ] Gilroy
 - [ ] Wotfard
+- [ ] Airbnb Cereal App
+- [ ] Geomanist
+- [ ] Lato
