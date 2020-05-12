@@ -8,3 +8,10 @@ Aqui eu vou listar os diretórios de algumas famílias e também tentarei deixar
 * Google Sans
 * Graphik
 * Poppins
+
+## O que ainda vou atualizar
+
+- [ ] Helvetica Now Display
+- [ ] Circular Std
+- [ ] Gilroy
+- [ ] Wotfard
