@@ -8,13 +8,12 @@ Aqui eu vou listar os diretórios de algumas famílias e também tentarei deixar
 * [Google Sans](https://github.com/marcelograciolli/Fonts/tree/master/Google%20Sans)
 * [Graphik](https://github.com/marcelograciolli/Fonts/tree/master/Graphik)
 * [Poppins](https://github.com/marcelograciolli/Fonts/tree/master/Poppins)
+* [Helvetica Now Display](https://github.com/marcelograciolli/Fonts/tree/master/Helvetica-Now-Display)
+* [Circular Std](https://github.com/marcelograciolli/Fonts/tree/master/Circular%20Std)
+* [Gilroy](https://github.com/marcelograciolli/Fonts/tree/master/Gilroy)
+* [Airbnb Cereal App](https://github.com/marcelograciolli/Fonts/tree/master/Airbnb%20Cereal%20App)
 
 ## O que ainda vou atualizar
-
-- [ ] Helvetica Now Display
-- [ ] Circular Std
-- [ ] Gilroy
 - [ ] Wotfard
-- [ ] Airbnb Cereal App
 - [ ] Geomanist
 - [ ] Lato
