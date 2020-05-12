@@ -5,9 +5,9 @@ Neste repositório você vai encontrar as famílias de fontes que eu estou usand
 
 Aqui eu vou listar os diretórios de algumas famílias e também tentarei deixar o mesmo atualizado.
 
-* Google Sans
-* Graphik
-* Poppins
+* [Google Sans](https://github.com/marcelograciolli/Fonts/tree/master/Google%20Sans)
+* [Graphik](https://github.com/marcelograciolli/Fonts/tree/master/Graphik)
+* [Poppins](https://github.com/marcelograciolli/Fonts/tree/master/Poppins)
 
 ## O que ainda vou atualizar
 
