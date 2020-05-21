@@ -16,7 +16,6 @@ Aqui eu vou listar os diretórios de algumas famílias e também tentarei deixar
 ## O que ainda vou atualizar
 - [ ] Wotfard
 - [ ] Geomanist
-- [ ] Lato
 
 
 
