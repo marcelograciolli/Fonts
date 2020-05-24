@@ -5,11 +5,11 @@ Neste [repositório](https://github.com/marcelograciolli/Fonts) você vai encont
 
 Aqui eu vou listar os diretórios de algumas famílias e também tentarei deixar o mesmo atualizado.
 
-* [Airbnb Cereal App](https://github.com/marcelograciolli/Fonts/tree/master/Airbnb%20Cereal%20App)
+* [Airbnb Cereal App](https://github.com/marcelograciolli/Fonts/tree/master/Airbnb-Cereal-App)
 * [Effra](https://github.com/marcelograciolli/Fonts/tree/master/Effra)
 * [Gilroy](https://github.com/marcelograciolli/Fonts/tree/master/Gilroy)
-* [Circular Std](https://github.com/marcelograciolli/Fonts/tree/master/Circular%20Std)
-* [Google Sans](https://github.com/marcelograciolli/Fonts/tree/master/Google%20Sans)
+* [Circular Std](https://github.com/marcelograciolli/Fonts/tree/master/Circular-Std)
+* [Google Sans](https://github.com/marcelograciolli/Fonts/tree/master/Google-Sans)
 * [Graphik](https://github.com/marcelograciolli/Fonts/tree/master/Graphik)
 * [Helvetica Now Display](https://github.com/marcelograciolli/Fonts/tree/master/Helvetica-Now-Display)
 * [Poppins](https://github.com/marcelograciolli/Fonts/tree/master/Poppins)
