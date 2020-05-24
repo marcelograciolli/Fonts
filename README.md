@@ -11,7 +11,7 @@ Aqui eu vou listar os diretórios de algumas famílias e também tentarei deixar
 * [Circular Std](https://github.com/marcelograciolli/Fonts/tree/master/Circular-Std)
 * [Google Sans](https://github.com/marcelograciolli/Fonts/tree/master/Google-Sans)
 * [Graphik](https://github.com/marcelograciolli/Fonts/tree/master/Graphik)
-* [Helvetica Now Display](https://github.com/marcelograciolli/Fonts/tree/master/Helvetica-Now-Display)
+* [Helvetica Now Display](https://github.com/marcelograciolli/Fonts/tree/master/Helvetica-Now-Display) | [Online Demo](https://hub.graciolli.com/tipografia/fonts/Helvetica-Now-Display/demo.html)
 * [Poppins](https://github.com/marcelograciolli/Fonts/tree/master/Poppins)
 
 
